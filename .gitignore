@@ -1,8 +1,14 @@
 # 
+# Delete Project Outputs file
+
+*.drc
+*.html
+*.*.Zip
+*.Zip
 
 # Generated output files
-/Project Outputs for XP-Hardv/*
-/Project Logs for XP-Hardv/*
+Project Outputs for XP-Hardv
+Project Logs for XP-Hardv
 
 
 
